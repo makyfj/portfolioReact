@@ -1,0 +1,14 @@
+main {
+  min-height: 88vh;
+}
+a {
+  padding: 0 10px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: #120624;
+}
