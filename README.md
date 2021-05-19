@@ -1,4 +1,4 @@
 # Portfolio
 
 - Created with React and React-Bootstrap
-- hosted at https//:www.franklinjara.dev
+- hosted at www.franklinjara.dev
