@@ -12,3 +12,12 @@ a:link {
 a:visited {
   color: #120624;
 }
+
+#contactEmail {
+  color: #45d6e7;
+  text-decoration: none;
+}
+
+#contactEmail:hover {
+  color: #ea39b8;
+}
