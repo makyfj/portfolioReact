@@ -11,7 +11,8 @@ const HomeScreen = () => {
         <Card className="text-center" border="primary">
           <Card.Header as="h2">
             Hi, my name is Franklin Jara and I recently graduated in Computer
-            Programming and Information Systems. Welcome to my personal website!
+            Programming and Information Systems. Currently looking for work.
+            Welcome to my personal website!
           </Card.Header>
           <Card.Body>
             <Card.Img

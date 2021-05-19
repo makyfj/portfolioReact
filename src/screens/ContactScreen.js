@@ -12,7 +12,7 @@ const ContactScreen = () => {
         <Card.Header as="h2">Contact</Card.Header>
         <Card.Body>
           <Card.Text as="h5">
-            Interested in hiring me for your project or just want to say hi? You
+            Interested in hiring me for your company or just want to say hi? You
             can fill in the contact from below or send me an email to
             <Card.Link className="contactLinks" href={`mailto:${emailLink}`}>
               franklinjaradev@gmail.com

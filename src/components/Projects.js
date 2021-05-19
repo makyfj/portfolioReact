@@ -9,7 +9,7 @@ const Projects = ({ project }) => {
         <Card.Title as="h3" style={{ color: "#44d9e8" }}>
           <strong>{project.name}</strong>
         </Card.Title>
-        <Card.Img src={project.image} variant="top" style={{ width: "6rem" }} />
+        <Card.Img src={project.image} variant="top" style={{ width: "4rem" }} />
         <Card.Text as="p" style={{ color: "#44d9e8" }}>
           {project.description}
         </Card.Text>
