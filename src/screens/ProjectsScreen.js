@@ -18,7 +18,7 @@ const ProjectsScreen = () => {
             <Card.Img
               src={CodingPic}
               variant="top"
-              style={{ width: "60rem" }}
+              style={{ width: "40rem" }}
             />
             <Card.Title>
               <Card.Text as="h3">

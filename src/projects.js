@@ -6,6 +6,7 @@ const projects = [
     description:
       "My first big project implementing and learning the MERN stack",
     link: "https://www.github.com/makyfj/ProShop",
+    webPage: "https://superproshopapp.herokuapp.com",
   },
   {
     id: 2,
@@ -29,6 +30,7 @@ const projects = [
     description:
       "Senior project. The project was done mostly with vanilla HTML, CSS, JS, and PHP",
     link: "https://www.github.com/makyfj/farmstand",
+    webPage: "https://www.farmstandwebsite.com",
   },
   {
     id: 5,
@@ -36,6 +38,7 @@ const projects = [
     image: "/images/javascript.png",
     description: "One of my first projects with vanilla javascript",
     link: "https://www.github.com/makyfj/countdownTimer",
+    webPage: "https://sydneyandfranklinforever.netlify.app/",
   },
   {
     id: 6,
