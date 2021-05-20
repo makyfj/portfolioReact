@@ -4,7 +4,7 @@ import { FaGithub, FaLink } from "react-icons/fa";
 
 const Projects = ({ project }) => {
   return (
-    <Card className="my-3 p-3 rounded" border="primary">
+    <Card className="my-3 p-3 rounded" border="secondary">
       <Card.Body>
         <Card.Title as="h3" style={{ color: "#44d9e8" }}>
           <strong>{project.name}</strong>

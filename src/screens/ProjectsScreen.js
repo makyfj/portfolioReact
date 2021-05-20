@@ -7,7 +7,7 @@ import CodingPic from "../images/coding.jpeg";
 const ProjectsScreen = () => {
   return (
     <>
-      <Card className="text-center" border="secondary">
+      <Card className="text-center" border="primary">
         <Card.Header as="h2">
           These are some of the projects I've done and currently working on :)
         </Card.Header>
