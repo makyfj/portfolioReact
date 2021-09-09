@@ -10,9 +10,9 @@ const HomeScreen = () => {
       <Container>
         <Card className="text-center" border="primary">
           <Card.Header as="h2">
-            Hi, my name is Franklin Jara and I recently graduated in Computer
-            Programming and Information Systems. Currently looking for work.
-            Welcome to my personal website!
+            Hi, I am currently a graduate student at Adelphi University. I work
+            part-time as a graduate teaching assistant for Introduction to
+            Programming with Python. I love to code >:)
           </Card.Header>
           <Card.Body>
             <Card.Img
