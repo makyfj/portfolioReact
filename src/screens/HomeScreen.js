@@ -10,9 +10,9 @@ const HomeScreen = () => {
       <Container>
         <Card className="text-center" border="primary">
           <Card.Header as="h2">
-            Hi, I am currently a graduate student at Adelphi University. I work
-            part-time as a graduate teaching assistant for Introduction to
-            Programming with Python. I love to code >:)
+            Hi, I am currently pursuing a masters in Computer Science at Adelphi
+            University. I work part-time as a graduate teaching assistant for
+            Introduction to Programming with Python. I love to code >:)
           </Card.Header>
           <Card.Body>
             <Card.Img
