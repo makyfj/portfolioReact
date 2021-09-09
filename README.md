@@ -1,4 +1,5 @@
 # Portfolio
 
 - Created with React and React-Bootstrap
-- hosted at www.franklinjara.dev
+- Hosted at www.franklinjara.dev
+- Redesigning the website with NextJS - new branch incoming
